@@ -1,2 +1,3 @@
 # hello-world
-my first repository on GitHub
+My first repository on GitHub
+Interested in C++, Java and Machine learning(HTM all the way!!)
